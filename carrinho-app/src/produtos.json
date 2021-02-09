@@ -1,0 +1,68 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "celular",
+      "valor": 1500.00,
+      "promocao": false,
+      "valorPromo": 0,
+      "imagem": "celular.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "fone",
+      "valor": 150.00,
+      "promocao": false,
+      "valorPromo": 0,
+      "imagem": "fone.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "kindle",
+      "valor": 350.00,
+      "promocao": false,
+      "valorPromo": 0,
+      "imagem": "kindle.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "mouse",
+      "valor": 90.00,
+      "promocao": false,
+      "valorPromo": 0,
+      "imagem": "mouse.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "monitor",
+      "valor": 850.00,
+      "promocao": false,
+      "valorPromo": 0,
+      "imagem": "monitor.jpg"
+    },
+    {
+      "id": 6,
+      "nome": "notebook",
+      "valor": 2550.00,
+      "promocao": false,
+      "valorPromo": 0,
+      "imagem": "notebook.jpg"
+    },
+    {
+      "id": 7,
+      "nome": "tablet",
+      "valor": 550.00,
+      "promocao": false,
+      "valorPromo": 0,
+      "imagem": "tablet.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "webcam",
+      "valor": 850.00,
+      "promocao": false,
+      "valorPromo": 0,
+      "imagem": "webcam.jpg"
+    }
+  ]
+}
