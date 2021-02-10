@@ -4,8 +4,8 @@
       "id": 1,
       "nome": "celular",
       "valor": 1500.00,
-      "promocao": false,
-      "valorPromo": 0,
+      "promocao": true,
+      "valorPromo": 800.00,
       "imagem": "celular.jpg"
     },
     {
@@ -20,8 +20,8 @@
       "id": 3,
       "nome": "kindle",
       "valor": 350.00,
-      "promocao": false,
-      "valorPromo": 0,
+      "promocao": true,
+      "valorPromo": 310.00,
       "imagem": "kindle.jpg"
     },
     {
@@ -36,8 +36,8 @@
       "id": 5,
       "nome": "monitor",
       "valor": 850.00,
-      "promocao": false,
-      "valorPromo": 0,
+      "promocao": true,
+      "valorPromo": 730.00,
       "imagem": "monitor.jpg"
     },
     {
@@ -45,7 +45,7 @@
       "nome": "notebook",
       "valor": 2550.00,
       "promocao": false,
-      "valorPromo": 0,
+      "valorPromo": 2300.00,
       "imagem": "notebook.jpg"
     },
     {
@@ -60,8 +60,8 @@
       "id": 8,
       "nome": "webcam",
       "valor": 850.00,
-      "promocao": false,
-      "valorPromo": 0,
+      "promocao": true,
+      "valorPromo": 600.00,
       "imagem": "webcam.jpg"
     }
   ]
